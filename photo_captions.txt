@@ -1,0 +1,47 @@
+01.jpg
+<h3>Hay Bales</h3>
+<p>I love hay bales. Took this snap on a drive through the countryside past some straw fields.</p>
+
+02.jpg
+<h3>Lake</h3>
+<p>The lake was so calm today. We had a great view of the snow on the mountains from here.</p>
+
+03.jpg
+<h3>Canyon</h3>
+<p>I hiked to the top of the mountain and got this picture of the canyon and trees below.</p>
+
+04.jpg
+<h3>Iceberg</h3>
+<p>It was amazing to see an iceberg up close, it was so cold but didn’t snow today.</p>
+
+05.jpg
+<h3>Desert</h3>
+<p>The red cliffs were beautiful. It was really hot in the desert but we did a lot of walking through the canyons.</p>
+
+06.jpg
+<h3>Fall</h3>
+<p>Fall is coming, I love when the leaves on the trees start to change color.</p>
+
+07.jpg
+<h3>Plantation</h3>
+<p>I drove past this plantation yesterday, everything is so green!</p>
+
+08.jpg
+<h3>Dunes</h3>
+<p>My summer vacation to the Oregon Coast. I love the sandy dunes!</p>
+
+09.jpg
+<h3>Countryside Lane</h3>
+<p>We enjoyed a quiet stroll down this countryside lane.</p>
+
+10.jpg
+<h3>Sunset</h3>
+<p>Sunset at the coast! The sky turned a lovely shade of orange.</p>
+
+11.jpg
+<h3>Cave</h3>
+<p>I did a tour of a cave today and the view of the landscape below was breathtaking.</p>
+
+12.jpg
+<h3>Bluebells</h3>
+<p>I walked through this meadow of bluebells and got a good view of the snow on the mountain before the fog came in.</p>
